@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\C#\Lesson10\CS_Homework_10\bin\Debug\CS_Homework_10.exe.config
+C:\Users\ASUS\Desktop\C#\Lesson10\CS_Homework_10\bin\Debug\CS_Homework_10.exe
+C:\Users\ASUS\Desktop\C#\Lesson10\CS_Homework_10\bin\Debug\CS_Homework_10.pdb
+C:\Users\ASUS\Desktop\C#\Lesson10\CS_Homework_10\obj\Debug\CS_Homework_10.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\Lesson10\CS_Homework_10\obj\Debug\CS_Homework_10.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\Lesson10\CS_Homework_10\obj\Debug\CS_Homework_10.exe
+C:\Users\ASUS\Desktop\C#\Lesson10\CS_Homework_10\obj\Debug\CS_Homework_10.pdb
